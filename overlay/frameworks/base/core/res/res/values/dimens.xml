@@ -70,7 +70,7 @@
     <dimen name="keyguard_lockscreen_status_line_font_size">10.0dip</dimen>
     <dimen name="keyguard_lockscreen_status_line_font_right_margin">42.0dip</dimen>
     <dimen name="keyguard_lockscreen_status_line_clockfont_top_margin">0.0dip</dimen>
-    <dimen name="keyguard_lockscreen_status_line_clockfont_bottom_margin">4.0dip</dimen>
+    <dimen name="keyguard_lockscreen_status_line_clockfont_bottom_margin">0.0dip</dimen>
     <dimen name="keyguard_lockscreen_pin_margin_left">40.0dip</dimen>
     <dimen name="face_unlock_height">330.0dip</dimen>
     <dimen name="activity_chooser_popup_min_width">200.0dip</dimen>
@@ -95,11 +95,11 @@
     <dimen name="kg_security_view_height">480.0dip</dimen>
     <dimen name="kg_widget_view_width">0.0dip</dimen>
     <dimen name="kg_widget_view_height">0.0dip</dimen>
-    <dimen name="kg_status_clock_font_size">75.0dip</dimen>
-    <dimen name="kg_status_date_font_size">15.0dip</dimen>
-    <dimen name="kg_status_line_font_size">13.0dip</dimen>
+    <dimen name="kg_status_clock_font_size">60.0dip</dimen>
+    <dimen name="kg_status_date_font_size">12.0dip</dimen>
+    <dimen name="kg_status_line_font_size">10.0dip</dimen>
     <dimen name="kg_status_line_font_right_margin">16.0dip</dimen>
-    <dimen name="kg_clock_top_margin">-16.0dip</dimen>
+    <dimen name="kg_clock_top_margin">-10.0dip</dimen>
     <dimen name="kg_key_horizontal_gap">0.0dip</dimen>
     <dimen name="kg_key_vertical_gap">0.0dip</dimen>
     <dimen name="kg_pin_key_height">60.0dip</dimen>
