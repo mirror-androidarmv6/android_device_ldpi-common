@@ -122,7 +122,7 @@
     <dimen name="keyguard_avatar_name_size">10.0sp</dimen>
     <dimen name="kg_edge_swipe_region_size">32.0dip</dimen>
     <dimen name="kg_squashed_layout_threshold">600.0dip</dimen>
-    <dimen name="kg_small_widget_height">170.0dip</dimen>
+    <dimen name="kg_small_widget_height">140.0dip</dimen>
     <dimen name="kg_num_pad_key_padding_left">10.0dip</dimen>
     <item type="dimen" name="APKTOOL_DUMMY_007d">false</item>
 </resources>
