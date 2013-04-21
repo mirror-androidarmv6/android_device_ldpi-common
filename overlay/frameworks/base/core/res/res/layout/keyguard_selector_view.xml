@@ -6,6 +6,6 @@
         <include android:layout_width="fill_parent" android:layout_height="wrap_content" layout="@layout/keyguard_message_area" />
         <View android:id="@id/keyguard_selector_view_frame" android:background="@drawable/kg_bouncer_bg_white" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="16.0dip" android:layout_marginRight="16.0dip" />
         <include android:layout_gravity="bottom|center" android:id="@id/keyguard_selector_fade_container" android:layout_width="fill_parent" android:layout_height="48.0dip" layout="@layout/keyguard_eca" />
-  	<include layout="@layout/keyguard_glow_pad_container" />
+        <include layout="@layout/keyguard_glow_pad_container" />
     </FrameLayout>
 </com.android.internal.policy.impl.keyguard.KeyguardSelectorView>
