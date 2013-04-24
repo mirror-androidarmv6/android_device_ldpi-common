@@ -25,7 +25,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:layout_maxWidth="420dp"
-    android:layout_maxHeight="@dimen/keyguard_security_height"
+    android:layout_maxHeight="275dp"
     android:clipChildren="false"
     android:clipToPadding="false"
     android:orientation="vertical"

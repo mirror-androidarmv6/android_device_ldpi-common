@@ -24,7 +24,7 @@
     android:id="@+id/app_widget_container"
     android:paddingLeft="5dp"
     android:paddingRight="5dp"
-    android:paddingTop="5dp"
+    android:paddingTop="0dp"
     android:paddingBottom="@dimen/kg_widget_pager_bottom_padding"
     android:clipToPadding="false"
     androidprv:pageSpacing="0dp">
