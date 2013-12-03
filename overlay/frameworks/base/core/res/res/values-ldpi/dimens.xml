@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <dimen name="password_keyboard_key_height_alpha">35dip</dimen>
     <dimen name="password_keyboard_key_height_numeric">35dip</dimen>
