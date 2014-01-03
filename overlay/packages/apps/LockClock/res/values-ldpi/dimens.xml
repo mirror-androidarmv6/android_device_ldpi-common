@@ -21,6 +21,12 @@ for different hardware and product builds. -->
     <dimen name="widget_big_font_size">54.0dip</dimen>
     <dimen name="widget_medium_font_size">32.0dip</dimen>
     <dimen name="label_font_size">13.0sp</dimen>
-    <dimen name="min_digital_widget_height">100.0dip</dimen>
-    <dimen name="min_digital_weather_height_lock">140dip</dimen>
+    <dimen name="min_digital_widget_height">110.0dip</dimen>
+    <dimen name="min_digital_weather_height_lock">110dip</dimen>
+    <dimen name="min_analog_weather_height_lock">110dip</dimen>
+    <dimen name="min_digital_calendar_height">160dip</dimen>
+    <dimen name="min_analog_calendar_height">160dip</dimen>
+    <dimen name="shadow_radius">2dp</dimen>
+    <dimen name="am_pm_padding">20dp</dimen>
+    <dimen name="am_pm_padding_small">12dp</dimen>
 </resources>
